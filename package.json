@@ -1,0 +1,24 @@
+{
+  "name": "mongolog",
+  "description": "Module for logging to mongodb",
+  "version": "0.0.1",
+  "author": {
+    "name": "Philip Rivera",
+    "email": "philip.a.rivera@gmail.com"
+  },
+  "main": "./index.js",
+  "keywords": [
+    "mongodb",
+    "database",
+    "nosql",
+    "log",
+    "logging",
+    "logger"
+  ],
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "dependencies": {
+    "mongoskin": ">=0.4.1"
+  }
+}
